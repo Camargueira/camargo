@@ -5,7 +5,8 @@ body {
  header {background-color: cornsilk;
     display: flex;
     justify-content: space-around;
-    align-items: center;}
+    align-items: center;
+    padding: 24px 0;}
 
     .imagem{
     width: 24%;
