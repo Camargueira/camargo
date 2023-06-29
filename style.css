@@ -1,7 +1,12 @@
 body {
     background-color: rgb(23, 106, 230);}
-    header {background-color: cornsilk;}
+    
+    
+ header {background-color: cornsilk;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;}
 
-.imagem{
+    .imagem{
     width: 24%;
 }
